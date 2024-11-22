@@ -4,10 +4,9 @@ $user = "root";
 $pass = "";
 $bd = "empresa";
 
-if ( $conn = mysqli_connect($server, $user, $pass, $bd)){
-  //  echo "Conectado";
+if ($conn = mysqli_connect($server, $user, $pass, $bd)) {
+  echo "Conectado";
 
-}else{
-    echo "Erro";
+} else {
+  echo "Erro";
 }
-
