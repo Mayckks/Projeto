@@ -24,9 +24,9 @@
             ('$nome','$telefone','$email','$senha')";
 
             if (mysqli_query($conn, $sql)) {
-                echo "$nome Cadastro realizado";
+                echo "$nome [[Cadastro realizado]]";
             } else {
-                echo "$nome NÂO foi cadastrado";
+                echo "$nome [[NÂO foi cadastrado]]";
             }
 
             ?>

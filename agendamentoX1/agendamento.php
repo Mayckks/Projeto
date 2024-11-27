@@ -148,12 +148,12 @@
             <img src="Barbershop Photoshoot Ideas.jpeg" alt="Imagem 1">
             <img src="1aba9637-0f4d-49f8-8020-c830e9b31460.jpeg" alt="Imagem 2">
             <img src="Free Barber Shaves A Mans Face Photo — High Res Pictures.jpeg" alt="Imagem 3">
-            <img src="Premium Photo _ Bearded man with long beard getting hair shaving with razor.jpeg" alt="Imagem 4">
+            <img src="best fade haircut for men mid hairstyler for short hair.jpg" alt="Imagem 4">
 
             <img src="Barbershop Photoshoot Ideas.jpeg" alt="Imagem 1">
             <img src="1aba9637-0f4d-49f8-8020-c830e9b31460.jpeg" alt="Imagem 2">
             <img src="Free Barber Shaves A Mans Face Photo — High Res Pictures.jpeg" alt="Imagem 3">
-            <img src="Premium Photo _ Bearded man with long beard getting hair shaving with razor.jpeg" alt="Imagem 4">
+            <img src="best fade haircut for men mid hairstyler for short hair.jpg" alt="Imagem 4">
         </div>
     </div>
 

@@ -12,7 +12,7 @@
 
     <div>
         <form action="" method="post">
-            <img src="placeholder_logo.png" class="logo" alt="Logo">
+            <img src="loogo.jpg" class="logo" alt="Logo">
             <h2>Login</h2>
 
 
