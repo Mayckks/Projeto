@@ -2,7 +2,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "";
-$bd = "empresa";
+$bd = "test";
 
 if ($conn = mysqli_connect($server, $user, $pass, $bd)) {
   echo "Conectado";
@@ -10,3 +10,4 @@ if ($conn = mysqli_connect($server, $user, $pass, $bd)) {
 } else {
   echo "Erro";
 }
+?>
